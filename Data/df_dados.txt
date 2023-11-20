@@ -1,0 +1,62 @@
+Tamanho do df_dados: 
+(1599, 12)
+Dimensão do df_dados: 
+2
+Número de classes do df_dados: 
+6
+Tipo dos atributos do df_dados: 
+fixed acidity           float64
+volatile acidity        float64
+citric acid             float64
+residual sugar          float64
+chlorides               float64
+free sulfur dioxide     float64
+total sulfur dioxide    float64
+density                 float64
+pH                      float64
+sulphates               float64
+alcohol                 float64
+quality                   int64
+dtype: object
+Valor médio de cada atributo do df_dados: 
+fixed acidity            8.319637
+volatile acidity         0.527821
+citric acid              0.270976
+residual sugar           2.538806
+chlorides                0.087467
+free sulfur dioxide     15.874922
+total sulfur dioxide    46.467792
+density                  0.996747
+pH                       3.311113
+sulphates                0.658149
+alcohol                 10.422983
+quality                  5.636023
+dtype: float64
+Valor máximo de cada atributo do df_dados: 
+fixed acidity            15.90000
+volatile acidity          1.58000
+citric acid               1.00000
+residual sugar           15.50000
+chlorides                 0.61100
+free sulfur dioxide      72.00000
+total sulfur dioxide    289.00000
+density                   1.00369
+pH                        4.01000
+sulphates                 2.00000
+alcohol                  14.90000
+quality                   8.00000
+dtype: float64
+Valor mínimo de cada atributo do df_dados: 
+fixed acidity           4.60000
+volatile acidity        0.12000
+citric acid             0.00000
+residual sugar          0.90000
+chlorides               0.01200
+free sulfur dioxide     1.00000
+total sulfur dioxide    6.00000
+density                 0.99007
+pH                      2.74000
+sulphates               0.33000
+alcohol                 8.40000
+quality                 3.00000
+dtype: float64
