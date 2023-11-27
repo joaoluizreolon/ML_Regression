@@ -1,4 +1,4 @@
-Matriz de correlaÃ§Ã£o do df_dados: 
+Matriz de correlação do df_dados: 
                       fixed acidity  volatile acidity  citric acid  \
 fixed acidity              1.000000         -0.256131     0.671703   
 volatile acidity          -0.256131          1.000000    -0.552496   
@@ -56,9 +56,9 @@ alcohol               1.000000  0.476166
 quality               0.476166  1.000000  
 Tamanho do df_dados: 
 (1599, 12)
-DimensÃ£o do df_dados: 
+Dimensão do df_dados: 
 2
-NÃºmero de classes do df_dados: 
+Número de classes do df_dados: 
 6
 Tipo dos atributos do df_dados: 
 fixed acidity           float64
@@ -74,7 +74,7 @@ sulphates               float64
 alcohol                 float64
 quality                   int64
 dtype: object
-Valor mÃ©dio de cada atributo do df_dados: 
+Valor médio de cada atributo do df_dados: 
 fixed acidity            8.319637
 volatile acidity         0.527821
 citric acid              0.270976
@@ -88,7 +88,7 @@ sulphates                0.658149
 alcohol                 10.422983
 quality                  5.636023
 dtype: float64
-Valor mÃ¡ximo de cada atributo do df_dados: 
+Valor máximo de cada atributo do df_dados: 
 fixed acidity            15.90000
 volatile acidity          1.58000
 citric acid               1.00000
@@ -102,7 +102,7 @@ sulphates                 2.00000
 alcohol                  14.90000
 quality                   8.00000
 dtype: float64
-Valor mÃ­nimo de cada atributo do df_dados: 
+Valor mínimo de cada atributo do df_dados: 
 fixed acidity           4.60000
 volatile acidity        0.12000
 citric acid             0.00000
